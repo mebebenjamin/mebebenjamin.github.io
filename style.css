@@ -1,17 +1,22 @@
+body, html {
+  height: 100%
+}
+
 body {
-  background-color: green;
+  background-image: url("images/background.png");
+
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   align-content: left;
 }
 
 h1 {
-  color: red;
+  color: darkblue;
 }
 h2 {
-  color: red;
-}
-p{
-  color: white;
-}
-li{
-  color: white;
+  color: darkblue;
 }
